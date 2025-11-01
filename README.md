@@ -31,6 +31,6 @@ Usando seus próprios conjuntos de dados: para implantar esse AWS CloudFormation
 Outras opções de implantação: para ver outras opções de implantação, consulte Automated Deployment. Se os dados já estiverem disponíveis, você poderá implantar a pilha sem os dados de demonstração.
 
 
-As informações desse repositótio foram retiradas da aula prática e do site https://docs.aws.amazon.com/pt_br/forecast/latest/dg/tutorial-cloudformation.html 
+As informações desse repositório foram retiradas da aula prática e do site https://docs.aws.amazon.com/pt_br/forecast/latest/dg/tutorial-cloudformation.html 
 
 📖Última atualização realizada em 31/10/2025
