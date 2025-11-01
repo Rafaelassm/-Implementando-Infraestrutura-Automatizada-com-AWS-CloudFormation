@@ -6,7 +6,7 @@
 Os benefícios do AWS CloudFormation incluem a automação e o gerenciamento de recursos, a criação de ambientes repetíveis e escaláveis, a capacidade de implantar e gerenciar a infraestrutura como código e o escalonamento global. Ele permite o provisionamento previsível e repetível, a implantação de infraestrutura como uma única unidade lógica ("pilha") e o uso de um modelo para descrever todos os recursos da AWS necessários para uma aplicação. 
 O AWS CloudFormation modelo é pré-carregado com séries temporais de destino, séries temporais relacionadas e conjuntos de dados de demonstração de metadados de itens. Os campos relevantes no console são pré-preenchidos com as respectivas localizações no S3.
 
-##Implantando um AWS CloudFormation modelo para automação do Forecast
+# Implantando um AWS CloudFormation modelo para automação do Forecast
 
 1- Creat Stack
 2- Aceite os padrões e escolha Próximo
@@ -15,7 +15,7 @@ O AWS CloudFormation modelo é pré-carregado com séries temporais de destino, 
 5- Em Capacidades, marque as duas caixas de seleção AWS CloudFormation para permitir a criação de recursos AWS Identity and Access Management (IAM) e pilhas aninhadas. Selecione Criar pilha.
 6- Você implantou um AWS CloudFormation modelo no Forecast.
 
-##LIMPAR##
+# LIMPAR
 Depois de implantar esse AWS CloudFormation modelo, você pode limpar os recursos recém-criados, implantar a AWS CloudFormation pilha usando seus próprios conjuntos de dados e explorar outras opções de implantação.
 
 Limpeza: a exclusão da pilha de demonstração mantém a pilha “Improving Forecast Accuracy with Machine Learning”. A exclusão da pilha “Improving Forecast Accuracy with Machine Learning” retém todos os dados do S3, Athena QuickSight e Forecast.
